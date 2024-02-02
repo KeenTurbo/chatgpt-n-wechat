@@ -1,7 +1,7 @@
 {
   "channel_type": "wx",
   "model": "",
-  "open_ai_api_key": "",
+  "open_ai_api_key": "sk-sByPkOc6Z3yYqvEw4fZiFTUUPWIggfJfjfz0D4WXKNGHGWfW",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
@@ -33,11 +33,12 @@
   "use_linkai": true,
   "linkai_api_key": "Link_H57U0QT6H6I8NkEMczi9OCnGx6WR1Vi4ZfltXvEAj8",
   "linkai_app_code": "aVKzJ7HD"
-      "channel_type": "wechatcom_app",
-    "wechatcom_corp_id": "wwd7ad0cc02f4b8dec",  
-    "wechatcomapp_token": "wCAFUHoTbcVLLay",  
-    "wechatcomapp_port": 9898,  
-    "wechatcomapp_secret": "bNEowX5j4WRBxKAsOMK-0GLA5fTXJWKO-GpTWYAh2uo",  
-    "wechatcomapp_agent_id": "1000002",  
-    "wechatcomapp_aes_key": "34EBWHzUQ8OsQiniBYQ97KwQvXkx56nJT58YwoAVvF2",  
+  "linkai_api_base": "https://api.link-ai.chat"
+  "channel_type": "wechatcom_app",
+  "wechatcom_corp_id": "wwd7ad0cc02f4b8dec",  
+  "wechatcomapp_token": "wCAFUHoTbcVLLay",  
+  "wechatcomapp_port": 9898,  
+  "wechatcomapp_secret": "bNEowX5j4WRBxKAsOMK-0GLA5fTXJWKO-GpTWYAh2uo",  
+  "wechatcomapp_agent_id": "1000002",  
+  "wechatcomapp_aes_key": "34EBWHzUQ8OsQiniBYQ97KwQvXkx56nJT58YwoAVvF2",  
 }
